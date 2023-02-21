@@ -41,7 +41,7 @@ function App() {
       <div className="app">
         <div className="search">
           <select name="" id="" onChange={handleChange}>           
-            <option disabled>Choese City</option>
+            <option disabled selected>Choese City</option>
             <option value="Dnipropetrovsk">Dnipro</option>
             <option value="novomoskovsk">Novomoskovsk</option>
             <option value="Pavlohrad">Pavlohrad</option>
